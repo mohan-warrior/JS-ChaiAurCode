@@ -1,6 +1,6 @@
 "use strict"; //treats all JS code as newer version 
 
-// alert(3+3) //we are using nodejs, not browser
+// alert(3+3) //we are using nodejs, not browser that pops up alert window
 
 console.log(3+3) //focus on prettier code writing
 
