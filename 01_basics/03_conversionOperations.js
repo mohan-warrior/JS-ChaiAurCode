@@ -72,3 +72,6 @@ console.log(gameCounter);
 let gameCounter1 =200
 ++gameCounter1
 console.log(gameCounter1);
+
+//check the mdn website for prefix and postfix in JS 
+//https://tc39.es/ecma262/#sec-toprimitive this link might also help 
