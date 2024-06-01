@@ -40,3 +40,10 @@ console.log(typeof myFunction);//function
 console.log(typeof anotherId);//symbol
 
 //https://262.ecma-international.org/5.1/#sec11.4.3
+
+
+
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//Stack(primitive), Heap(Non-primitive) memory
